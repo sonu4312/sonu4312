@@ -45,6 +45,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sonu4312&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>
 
 ### 📊 GitHub Stats:
 <p align="center">
