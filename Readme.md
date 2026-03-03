@@ -90,8 +90,9 @@
 
 ### 📄 Resume:
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CQ3x5gg0WKyeypndK1Er4D-dac25-vG2/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1ypA7tOT6z3i1rorCwMqShY8a8EpLiw0j/view?usp=drive_link" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/000000/resume.png" alt="Resume" />
   </a>
 </p>
+
 
